@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128133582398",
+    "project_id": "drum-c70f4",
+    "storage_bucket": "drum-c70f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128133582398:android:cd0a3fda0db3f525970b6f",
+        "android_client_info": {
+          "package_name": "com.advicts.smartdrum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_xDSvl6i104j8ioarQir-M0o7czbvMdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

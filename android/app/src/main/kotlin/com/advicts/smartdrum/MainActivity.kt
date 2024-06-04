@@ -1,0 +1,6 @@
+package com.advicts.smartdrum
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
